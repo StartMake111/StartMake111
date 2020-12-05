@@ -1,11 +1,9 @@
 ### Hi there 👋
 ## I am eating sandwich and writting code.
 
-<img align="right" alt="GIF" src="https://github.com/StartMake111/StartMake111/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/StartMake111/StartMake111/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 😄 Pronouns: He-he
 
-- ⚡ Fun fact: cbt wikipedia 😄
 <!--
 **StartMake111/StartMake111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
